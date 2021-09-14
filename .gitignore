@@ -23,5 +23,5 @@ dist/
 downloads/
 
 # Others
-*DS_Store
+*.DS_Store
 
